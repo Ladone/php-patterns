@@ -2,7 +2,7 @@
 ## Quick start
 
 # About
-This repository include tasks from book O`reilly: Head First Design Patterns
+This repository include tasks from book O`Reilly: Head First Design Patterns
 
 # Setup
 
