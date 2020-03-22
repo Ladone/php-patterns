@@ -1,1 +1,1 @@
-<?php
+Lists of patterns:
